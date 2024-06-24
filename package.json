@@ -1,0 +1,14 @@
+{
+    "name": "5.7.5-activity",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server ./public"
+    },
+    "author": "",
+    "license": "",
+    "dependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
